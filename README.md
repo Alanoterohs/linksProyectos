@@ -1,7 +1,8 @@
 # Projectos
 
-## ⚛️ Stack PERN
+## ⚛️ Postgresql, Express, React, Node
 
+-  Management tasks: <a href="https://github.com/Alanoterohs/expense-tracker-PERN">Source Code</a>
 -  Management tasks: <a href="https://github.com/Alanoterohs/managment-task">Source Code(en proceso)</a>
 
 ## 🟢 Node.js y ⚫ Express.js
