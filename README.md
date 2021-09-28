@@ -22,7 +22,7 @@
 
 ## Vue
 
--  Challenge Sooft: <a href="https://github.com/Alanoterohs/frontChallengeSooft">Source Code(en proceso)</a>
+-  Challenge Sooft: <a href="https://github.com/Alanoterohs/frontSooftech">Source Code</a>
 
 ## ☕☕ Java
 
