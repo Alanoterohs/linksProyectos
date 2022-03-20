@@ -36,10 +36,9 @@
 
 ## 🖥 C 
 
-- **Algoritmos 1** Laboratorio 4. Cs. Computación: <a href="https://github.com/Alanoterohs/project-2-C">Source Code</a>
-- **Algoritmos 1** Laboratorio 3. Cs. Computación: <a href="https://github.com/Alanoterohs/Project-1-C">Source Code</a>
-
-- **Algoritmos 2** -Lab 0- Cs. Computación: <a href="https://github.com/Alanoterohs/lab0">Source Code</a>
+-**Algoritmos 1** Laboratorio 4. Cs. Computación: <a href="https://github.com/Alanoterohs/project-2-C">Source Code</a>
+-**Algoritmos 1** Laboratorio 3. Cs. Computación: <a href="https://github.com/Alanoterohs/Project-1-C">Source Code</a>
+-**Algoritmos 2** -Lab 0- Cs. Computación: <a href="https://github.com/Alanoterohs/lab0">Source Code</a>
 
 ## 🏎 Haskell
 
