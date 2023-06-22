@@ -1,5 +1,20 @@
 # Projectos
 
+## 👨‍💻🐍 Python
+
+- Proyecto 'Scientific Computing with Python Projects'. Time-Calculator: <a href="https://github.com/Alanoterohs/Time-Calculator">Source Code</a>
+- Proyecto 'Scientific Computing with Python Projects'. Budget App: <a href="https://github.com/Alanoterohs/Budget-App">Source Code</a>
+- Proyecto 'Scientific Computing with Python Projects'. Arithmetic Formatter: <a href="https://github.com/Alanoterohs/Arithmetic-Formatter">Source Code</a>
+- Proyecto de Ing.Sistemas. JUEGO DE DADOS(desde terminal): <a href="https://github.com/Alanoterohs/proyecto1_game">Source Code</a>
+- Desafios de Ing.Sistemas: <a href="https://github.com/Alanoterohs/Algoritmos1_Ing.Sistemas">Source Code</a>
+
+## 🖥 C 
+
+- **Algoritmos 1** Laboratorio 4. Cs. Computación: <a href="https://github.com/Alanoterohs/project-2-C">Source Code</a>
+- **Algoritmos 1** Laboratorio 3. Cs. Computación: <a href="https://github.com/Alanoterohs/Project-1-C">Source Code</a>
+
+- **Algoritmos 2** Laboratorio 0 Cs. Computación: <a href="https://github.com/Alanoterohs/lab0">Source Code</a>
+
 ## ⚛️ Postgresql, Express, React, Node
 
 -  Ecommerce: <a href="https://github.com/Alanoterohs/e-commerce">Source CodeSource Code(en proceso)</a>
@@ -28,18 +43,6 @@
 
 -  Challenge Sooft(Consumir api con RestTemplate y realizar un ABM): <a href="https://github.com/Alanoterohs/ChallengeBackend-Java">Source Code</a>
 -  API de disney con Springboot: <a href="https://github.com/Alanoterohs/Api-disney-Java">Source Code</a>
-
-## 👨‍💻🐍 Python
-
-- Proyecto de Ing.Sistemas. JUEGO DE DADOS(desde terminal): <a href="https://github.com/Alanoterohs/proyecto1_game">Source Code</a>
-- Desafios de Ing.Sistemas: <a href="https://github.com/Alanoterohs/Algoritmos1_Ing.Sistemas">Source Code</a>
-
-## 🖥 C 
-
-- **Algoritmos 1** Laboratorio 4. Cs. Computación: <a href="https://github.com/Alanoterohs/project-2-C">Source Code</a>
-- **Algoritmos 1** Laboratorio 3. Cs. Computación: <a href="https://github.com/Alanoterohs/Project-1-C">Source Code</a>
-
-- **Algoritmos 2** Laboratorio 0 Cs. Computación: <a href="https://github.com/Alanoterohs/lab0">Source Code</a>
 
 ## 🏎 Haskell
 
